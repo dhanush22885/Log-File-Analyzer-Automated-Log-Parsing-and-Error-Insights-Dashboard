@@ -18,9 +18,13 @@ Distributed microservices generate massive volumes of unstructured plain-text lo
 ---
 
 
-![ Dashboard1](images/image1.png)
-![ Dashboard2](images/image2.png)
-![ Dashboard3](images/image3.png)
+![ Dashboard1](images/image1)
+
+
+![ Dashboard2](images/image2)
+
+
+![ Dashboard3](images/image3)
 
 ## 🏗️ System Architecture
 
